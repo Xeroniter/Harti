@@ -8,4 +8,4 @@
 * Using Available Model, We Can Classify Cat or Dog on FastAPI
 
 ### 📘 Others
-* [Hart](https://github.com/Xeroniter/Hart)
+* [Hart](https://github.com/Kelnit/Hart)
